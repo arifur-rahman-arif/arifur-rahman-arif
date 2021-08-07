@@ -16,50 +16,7 @@ Following that motto, I try to improve & update myself each & every day to deliv
 
 ### Languages and Tools:
 
-![JavaScript](./Logos/logo-javascript.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-![NodeJS](./Logos/nodejs-icon.svg)
-&nbsp;
-
-<!-- <img align="left" alt="JavaScript" width="45" height="45" src="./Logos/logo-javascript.svg" title="JavaScript"/>
+<img align="left" alt="JavaScript" width="45" height="45" src="./Logos/logo-javascript.svg" title="JavaScript"/>
 <img align="left" alt="NodeJS" width="45" height="45" src="./Logos/nodejs-icon.svg" title="NodeJS"/>
 <img align="left" alt="React" width="45" height="45" src="./Logos/react.svg" title="React"/>
 <img align="left" alt="MongoDB" width="45" height="45" src="./Logos/mongodb.svg" title="MongoDB"/>
@@ -76,4 +33,4 @@ Following that motto, I try to improve & update myself each & every day to deliv
 <img align="left" alt="Semantic" width="45" height="45" src="./Logos/semantic-ui.svg" title="Semantic"/>
 <img align="left" alt="GSAP" width="45" height="45" src="./Logos/gsap-greensock.svg" title="GSAP"/>
 <img align="left" alt="Git" width="45" height="45" src="./Logos/git-icon.svg" title="Git"/>
-<img align="left" alt="Figma" width="45" height="45" src="./Logos/figma.svg" title="Figma"/> -->
+<img align="left" alt="Figma" width="45" height="45" src="./Logos/figma.svg" title="Figma"/>
