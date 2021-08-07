@@ -17,32 +17,20 @@ Following that motto, I try to improve & update myself each & every day to deliv
 ### Languages and Tools:
 
 <img align="left" alt="JavaScript" width="45" height="45" src="./Logos/logo-javascript.svg" title="JavaScript"/>
-&nbsp;
 <img align="left" alt="NodeJS" width="45" height="45" src="./Logos/nodejs-icon.svg" title="NodeJS"/>
-&nbsp;
 <img align="left" alt="React" width="45" height="45" src="./Logos/react.svg" title="React"/>
 <img align="left" alt="MongoDB" width="45" height="45" src="./Logos/mongodb.svg" title="MongoDB"/>
-&nbsp;
 <img align="left" alt="MySQL" width="45" height="45" src="./Logos/mysql.svg" title="MySQL"/>
-&nbsp;
 <img align="left" alt="jQuery" width="45" height="45" src="./Logos/jquery.svg" title="jQuery"/>
 <img align="left" alt="PHP" width="45" height="45" src="./Logos/php.svg" title="PHP"/>
-&nbsp;
 <img align="left" alt="WordPress" width="45" height="45" src="./Logos/wordpress.svg" title="WordPress"/>
-&nbsp;
 <img align="left" alt="Webpack" width="45" height="45" src="./Logos/webpack-icon.svg" title="Webpack"/>
 <img align="left" alt="Gulp" width="45" height="45" src="./Logos/gulp.svg" title="Gulp"/>
-&nbsp;
 <img align="left" alt="HTML" width="45" height="45" src="./Logos/html.svg" title="HTML"/>
-&nbsp;
 <img align="left" alt="CSS" width="45" height="45" src="./Logos/css.svg" title="CSS"/>
 <img align="left" alt="Sass" width="45" height="45" src="./Logos/sass.svg" title="Sass"/>
-&nbsp;
 <img align="left" alt="Bootstrap" width="45" height="45" src="./Logos/bootstrap.svg" title="Bootstrap"/>
-&nbsp;
 <img align="left" alt="Semantic" width="45" height="45" src="./Logos/semantic-ui.svg" title="Semantic"/>
 <img align="left" alt="GSAP" width="45" height="45" src="./Logos/gsap-greensock.svg" title="GSAP"/>
-&nbsp;
 <img align="left" alt="Git" width="45" height="45" src="./Logos/git-icon.svg" title="Git"/>
-&nbsp;
 <img align="left" alt="Figma" width="45" height="45" src="./Logos/figma.svg" title="Figma"/>
