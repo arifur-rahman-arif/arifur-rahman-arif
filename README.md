@@ -29,7 +29,9 @@ Following that motto, I try to improve & update myself each & every day to deliv
 <img align="left" alt="HTML" width="45" height="45" src="./Logos/html.svg" title="HTML"/>
 <img align="left" alt="CSS" width="45" height="45" src="./Logos/css.svg" title="CSS"/>
 <img align="left" alt="Sass" width="45" height="45" src="./Logos/sass.svg" title="Sass"/>
+&nbsp;
 <img align="left" alt="Bootstrap" width="45" height="45" src="./Logos/bootstrap.svg" title="Bootstrap"/>
+&nbsp;
 <img align="left" alt="Semantic" width="45" height="45" src="./Logos/semantic-ui.svg" title="Semantic"/>
 <img align="left" alt="GSAP" width="45" height="45" src="./Logos/gsap-greensock.svg" title="GSAP"/>
 <img align="left" alt="Git" width="45" height="45" src="./Logos/git-icon.svg" title="Git"/>
