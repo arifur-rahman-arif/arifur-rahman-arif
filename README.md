@@ -5,7 +5,7 @@
 
 <br />
 
-### A brief talk about me:
+## A brief talk about me:
 
 I have been working in the web development sector for about 3 years.
 Worked with clients & companies from home country to abroad. What I understood, that to thrive in this sector I don't only need to be good
@@ -14,7 +14,7 @@ Following that motto, I try to improve & update myself each & every day to deliv
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="JavaScript" width="60" height="70" src="./Logos/logo-javascript.svg" title="JavaScript"/>
 <img align="left" alt="NodeJS" width="60" height="70" src="./Logos/nodejs-icon.svg" title="NodeJS"/>
