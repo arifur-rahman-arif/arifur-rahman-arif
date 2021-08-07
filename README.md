@@ -9,7 +9,7 @@
 
 I have been working in the web development sector for about 3 years.
 Worked with clients & companies from home country to abroad. What I understood, that to thrive in this sector I don't only need to be good
-at what I'm doing, but I have to be the best. Because people tends to choose best thing for their need, good is not enough.
+at what I'm doing, but I have to be the best. Because people tends to choose best thing for their needs & good is not enough.
 Following that motto, I try to improve & update myself each & every day to deliver the best at what I'm doing.
 
 <br />
