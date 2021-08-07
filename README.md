@@ -1,4 +1,4 @@
-## _Hey, &nbsp;`I'm AR Arif `_ &nbsp;Developer , Dreamer & Doer 👋 aka the 3D
+## _Hey, &nbsp;`I'm AR Arif`_ &nbsp;Developer , Dreamer & Doer 👋 aka the 3D
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-connect--me-blue?logo=linkedin&style=for-the-badge&logoColor=white&labelColor=blue&color=mint)](https://www.linkedin.com/in/arifur-rahman-arif-51222a1b8/) &nbsp; [![Gmail](https://img.shields.io/badge/dev.ar.arif@gmail.com-d?logo=gmail&style=for-the-badge&logoColor=white&labelColor=red&color=blue)]() &nbsp; [![Fiverr](https://img.shields.io/badge/fiverr-d?logo=fiverr&style=for-the-badge&logoColor=black&labelColor=1dbf73&color=blue)](https://www.fiverr.com/devdrarif?up_rollout=true) &nbsp; [![Upwork](https://img.shields.io/badge/upwork-d?logo=upwork&style=for-the-badge&logoColor=white&labelColor=14a800&color=blue)](https://www.upwork.com/freelancers/~014254f914c8244188)
 
