@@ -17,8 +17,11 @@ Following that motto, I try to improve & update myself each & every day to deliv
 ### Languages and Tools:
 
 ![JavaScript](./Logos/logo-javascript.svg)
+&nbsp;
 ![NodeJS](./Logos/nodejs-icon.svg)
+&nbsp;
 ![NodeJS](./Logos/nodejs-icon.svg)
+&nbsp;
 ![NodeJS](./Logos/nodejs-icon.svg)
 ![NodeJS](./Logos/nodejs-icon.svg)
 ![NodeJS](./Logos/nodejs-icon.svg)
