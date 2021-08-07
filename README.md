@@ -16,4 +16,4 @@ Following that motto, I try to improve & update myself each & every day to deliv
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="30px" height="30px" src="./Logos/logo-javascript.svg" />]
+[<img align="left" alt="JavaScript" width="30px" height="30px" src="./Logos/logo-javascript.svg" />][javascript]
