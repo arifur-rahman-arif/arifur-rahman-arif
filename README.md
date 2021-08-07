@@ -16,7 +16,8 @@ Following that motto, I try to improve & update myself each & every day to deliv
 
 ### Languages and Tools:
 
-[![JavaScript](./Logos/logo-javascript.svg)[http://google.com]]
+![JavaScript](./Logos/logo-javascript.svg)
+![NodeJS](./Logos/nodejs-icon.svg)
 
 <!-- <img align="left" alt="JavaScript" width="45" height="45" src="./Logos/logo-javascript.svg" title="JavaScript"/>
 <img align="left" alt="NodeJS" width="45" height="45" src="./Logos/nodejs-icon.svg" title="NodeJS"/>
