@@ -46,7 +46,4 @@ Following that motto, I try to improve & update myself each & every day to deliv
 
 ## Frequently used top languages:
 
-hello
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats)
