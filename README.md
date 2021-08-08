@@ -35,9 +35,7 @@ Following that motto, I try to improve & update myself each & every day to deliv
 <img align="left" alt="Git" width="60" height="70" src="./Logos/git-icon.svg" title="Git"/>
 <img align="left" alt="Figma" width="60" height="70" src="./Logos/figma.svg" title="Figma"/>
 
-<br/>
-<br/>
-<br/>
+<br />
 
 ## Frequently used top languages:
 
