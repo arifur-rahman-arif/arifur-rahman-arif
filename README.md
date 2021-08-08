@@ -49,18 +49,18 @@ Following that motto, I try to improve & update myself each & every day to deliv
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats)
 
 <br />
-<br />
-<br />
 
 ## This week I spent my time on 📊
 
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=arifur-rahman-arif&hide_title=true&hide_border=true&langs_count=5)
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
 
 <details>
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
-  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=arifur-rahman-arif&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  <a href='https://profile.codersrank.io/user/gautamkrishnar/'>
+  <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+  </a>
 
 </details>
 
-<img alt='analytics' src='https://profile-counter.glitch.me/arifur-rahman-arif/count.svg' width='0px'>
+<img alt='analytics' src='https://profile-counter.glitch.me/gautamkrishnar/count.svg' width='0px'>
