@@ -46,7 +46,7 @@ Following that motto, I try to improve & update myself each & every day to deliv
 
 ## Frequently used top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats) &nbsp; [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=arifur-rahman-arif)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats)
 
 <br />
 
