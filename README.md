@@ -34,3 +34,9 @@ Following that motto, I try to improve & update myself each & every day to deliv
 <img align="left" alt="GSAP" width="60" height="70" src="./Logos/gsap-greensock.svg" title="GSAP"/>
 <img align="left" alt="Git" width="60" height="70" src="./Logos/git-icon.svg" title="Git"/>
 <img align="left" alt="Figma" width="60" height="70" src="./Logos/figma.svg" title="Figma"/>
+
+<br />
+
+## Frequently used top languages:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats)
