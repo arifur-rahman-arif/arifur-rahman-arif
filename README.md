@@ -46,10 +46,10 @@ Following that motto, I try to improve & update myself each & every day to deliv
 
 ## Frequently used top languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifur-rahman-arif&langs_count=8)](https://github.com/arifur-rahman-arif/github-readme-stats) &nbsp; [![Weak time stats](https://github-readme-stats.vercel.app/api/wakatime?username=arifur-rahman-arif)](https://github.com/arifur-rahman-arif/github-readme-stats)
 
 <br />
 
 ## Language / Framework stats:
 
-<img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=arifur-rahman-arif&padding=30&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,python,reactjs,scss,shell,svelte,swift,typescript,vue'>
+<img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=gautamkrishnar&padding=30&skills=html,css,javascript,bootstrap,mysql,php,reactjs,scss'>
