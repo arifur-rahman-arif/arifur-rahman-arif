@@ -1,4 +1,4 @@
-# Hey, I'm _AR Arif_ &nbsp;Dreamer , Developer & Doer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> aka the 3D
+# Hey, I'm _AR Arif_ &nbsp;Dreamer , Developer & Doer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-connect--me-blue?logo=linkedin&style=for-the-badge&logoColor=white&labelColor=blue&color=mint)](https://www.linkedin.com/in/arifur-rahman-arif-51222a1b8/) [![Gmail](https://img.shields.io/badge/dev.ar.arif@gmail.com-d?logo=gmail&style=for-the-badge&logoColor=white&labelColor=red&color=blue)]() &nbsp; [![WordPress](https://img.shields.io/badge/Wordpress-d?logo=wordpress&style=for-the-badge&logoColor=white&labelColor=blue&color=23282d)](https://profiles.wordpress.org/devdrarif/#content-plugins)
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-d?logo=stackoverflow&style=for-the-badge&logoColor=white&labelColor=orange&color=red)](https://stackoverflow.com/users/16214410/arifur-rahman-arif) &nbsp; [![Fiverr](https://img.shields.io/badge/fiverr-d?logo=fiverr&style=for-the-badge&logoColor=black&labelColor=1dbf73&color=blue)](https://www.fiverr.com/devdrarif?up_rollout=true) &nbsp; [![Upwork](https://img.shields.io/badge/upwork-d?logo=upwork&style=for-the-badge&logoColor=white&labelColor=14a800&color=blue)](https://www.upwork.com/freelancers/~014254f914c8244188)
@@ -32,8 +32,6 @@ Following that motto, I try to improve & update myself each & every day to deliv
 <img align="left" alt="Bootstrap" width="60" height="70" src="./Logos/bootstrap.svg" title="Bootstrap"/>
 <img align="left" alt="Semantic" width="60" height="70" src="./Logos/semantic-ui.svg" title="Semantic"/>
 <img align="left" alt="GSAP" width="60" height="70" src="./Logos/gsap-greensock.svg" title="GSAP"/>
-<img align="left" alt="Git" width="60" height="70" src="./Logos/git-icon.svg" title="Git"/>
-<img align="left" alt="Figma" width="60" height="70" src="./Logos/figma.svg" title="Figma"/>
 
 <br />
 <br />
