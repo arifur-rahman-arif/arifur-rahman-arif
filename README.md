@@ -13,27 +13,6 @@ at what I'm doing, but I have to be the best. Because people tend to choose the 
 Following that motto, I try to improve & update myself each & every day to deliver the best at what I'm doing.
 
 <br />
-
-## Languages and Tools:
-
-<img align="left" alt="JavaScript" width="60" height="70" src="./Logos/logo-javascript.svg" title="JavaScript"/>
-<img align="left" alt="NodeJS" width="60" height="70" src="./Logos/nodejs-icon.svg" title="NodeJS"/>
-<img align="left" alt="React" width="60" height="70" src="./Logos/react.svg" title="React"/>
-<img align="left" alt="MongoDB" width="60" height="70" src="./Logos/mongodb.svg" title="MongoDB"/>
-<img align="left" alt="MySQL" width="60" height="70" src="./Logos/mysql.svg" title="MySQL"/>
-<img align="left" alt="jQuery" width="60" height="70" src="./Logos/jquery.svg" title="jQuery"/>
-<img align="left" alt="PHP" width="60" height="70" src="./Logos/php.svg" title="PHP"/>
-<img align="left" alt="WordPress" width="60" height="70" src="./Logos/wordpress.svg" title="WordPress"/>
-<img align="left" alt="Webpack" width="60" height="70" src="./Logos/webpack-icon.svg" title="Webpack"/>
-<img align="left" alt="Gulp" width="60" height="70" src="./Logos/gulp.svg" title="Gulp"/>
-<img align="left" alt="HTML" width="60" height="70" src="./Logos/html.svg" title="HTML"/>
-<img align="left" alt="CSS" width="60" height="70" src="./Logos/css.svg" title="CSS"/>
-<img align="left" alt="Sass" width="60" height="70" src="./Logos/sass.svg" title="Sass"/>
-<img align="left" alt="Bootstrap" width="60" height="70" src="./Logos/bootstrap.svg" title="Bootstrap"/>
-<img align="left" alt="Semantic" width="60" height="70" src="./Logos/semantic-ui.svg" title="Semantic"/>
-<img align="left" alt="GSAP" width="60" height="70" src="./Logos/gsap-greensock.svg" title="GSAP"/>
-
-<br />
 <br />
 <br />
 <br />
