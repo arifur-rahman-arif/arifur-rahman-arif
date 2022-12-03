@@ -13,13 +13,6 @@ at what I'm doing, but I have to be the best. Because people tend to choose the 
 Following that motto, I try to improve & update myself each & every day to deliver the best at what I'm doing.
 
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ## Frequently used top languages:
 
