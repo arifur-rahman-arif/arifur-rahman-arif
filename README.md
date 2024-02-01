@@ -25,7 +25,7 @@ In the world of web development, I've teamed up with clients from around the glo
 - **Containerization:** Familiar with Docker for containerized application deployment. 🐳🚀
 - **Cloud Platforms:** Working with AWS, Digital Ocean, and Siteground for scalable and flexible cloud solutions. ☁️🌐
 - **Web Performance Optimization:** Employing techniques to enhance website speed and overall performance. ⚡🚀
-- **Linux Mastery:** Proficient in Linux systems, leveraging its power for robust development environments and server configurations. 🐧🔧
+- **Linux:** Proficient in Linux systems, leveraging its power for robust development environments and server configurations. 🐧🔧
 
 Stay curious, stay innovative! 🚀
 
